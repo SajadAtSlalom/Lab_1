@@ -5,7 +5,7 @@ Date: [Date]
 """
 
 import unittest
-from main import *
+import main
 
 
 class TestAssignment(unittest.TestCase):
